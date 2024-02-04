@@ -9,3 +9,9 @@ void main()
 
 }
 
+int ui()
+{
+    printf("This is my Ui");
+    return 0;
+}
+
